@@ -1,4 +1,8 @@
 # NLP Project
+## Contributors
+- Murat Küçük
+- Tuğberk Varoğlu
+- Yusuf Atmaca
 ## Contains:
 - NER Tagging
 - Translation
